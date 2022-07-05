@@ -1,3 +1,12 @@
+This is a fork of [caldwell's renederjson](https://github.com/caldwell/renderjson)
+
+Last commit was from Jun 3, 2018, so I thought that it is abandonware. I think
+it is very awesome project, but it is missing some features that I need, so I
+forked it.
+
+If original project suddenly become alive and all neccessary (to me) changes
+will be merged, I will close this fork.
+
 Renderjson
 ==========
 
